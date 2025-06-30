@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Samiksha Trivedi
 
 🎓 final year Engineering Student | 💻 Full Stack Developer | ✍️ GDG Tech lead 
-🚀 Passionate about building impactful tech products and solving real-world problems
+🚀 Intern Accilives
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Next.js**
+- 🌱 Currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Next.js** and DSA in ** "JAVA"**.
 - 🧠 Always curious about **system design**, **API development**, and **open-source**
 - 💬 Ask me about **React**, **Java**, **MongoDB**, or even how I manage side projects while studying
 - 📚 I have worked on multiple full-stack projects like AdoptedTrails, Indian Heritage & Culture, a Restaurant Web App, a Grocery Delivery Website, and a complete E-commerce Platform.
-- 🛠️ Working on: Backend for  a **Netflix Clone**
+- 🛠️ Working on: Backend for  a **Netflix Clone** 
 
 ---
 
