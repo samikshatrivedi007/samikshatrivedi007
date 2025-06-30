@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently sharpening my skills in **MERN Stack**, **TypeScript**, and **Next.js** and DSA in ** "JAVA"**.
+- 🌱 Currently deepening my skills in **MERN Stack**, **TypeScript**, and **Next.js**, while consistently practicing **Data Structures & Algorithms** in **Java**
 - 🧠 Always curious about **system design**, **API development**, and **open-source**
 - 💬 Ask me about **React**, **Java**, **MongoDB**, or even how I manage side projects while studying
 - 📚 I have worked on multiple full-stack projects like AdoptedTrails, Indian Heritage & Culture, a Restaurant Web App, a Grocery Delivery Website, and a complete E-commerce Platform.
