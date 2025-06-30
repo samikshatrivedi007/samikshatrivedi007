@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Samiksha Trivedi
 
-🎓 3rd-year Engineering Student | 💻 Full Stack Developer | ✍️ GDG Tech lead 
+🎓 final year Engineering Student | 💻 Full Stack Developer | ✍️ GDG Tech lead 
 🚀 Passionate about building impactful tech products and solving real-world problems
 
 ---
