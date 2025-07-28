@@ -35,6 +35,7 @@
 
 - 🌐 LinkedIn: [linkedin.com/in/samiksha-trivedi-149a02263](https://www.linkedin.com/in/samiksha-trivedi-149a02263/)
 - 📬 Email: samikshatrivedi007@gmail.com
+- 💼 Portfolio: [samiksha-portfolio.vercel.app](https://samiksha-my-portfolio.vercel.app/)
 
 
 ---
