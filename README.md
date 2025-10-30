@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Samiksha Trivedi
 
-🎓 final year Engineering Student | 💻 Full Stack Developer | ✍️ GDG Tech lead 
-🚀 Intern Accilives
+🎓 final year Engineering Student | 💻 MERN Stack Developer | ✍️ GDG Tech lead'25 
+🚀 Ex-Intern @Accilives
 
 ---
 
